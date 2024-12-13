@@ -4,7 +4,7 @@ Web app created with ReactJS that conects to MongoDB Atlas using an API REST
 
 ## How to Run
 
-Clone the repository, execute
+You will need NodeJS, clone the repository and execute
 
 ```bash
 npm i
